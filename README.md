@@ -1,4 +1,6 @@
+# Whatsapp: 66627011785
 # 两种方式使用 whatsapp GCM 服务
+
 # 1) 可以直接使用demo(WhatsappGCMDemo.html)
    ## 把 WhatsappGCMDemo.html 下载到本地，双击打开
 # 2) WhatsappGCM
